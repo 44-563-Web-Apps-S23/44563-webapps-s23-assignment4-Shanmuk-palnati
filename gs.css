@@ -1,0 +1,28 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+
+.direction{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: black;
+    background-color: aqua;
+}
+
+.direction:hover{
+    color: white;
+    background-color: red;
+}
+
+.delane{
+    color:blue
+}
+
+.joyce{
+    color: aquamarine;
+}
+
+.sergeant{
+    color: blueviolet
+}
