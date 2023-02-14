@@ -1,6 +1,6 @@
 .speech{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 10px;
+    font-size: medium;
 }
 
 .direction{
@@ -20,9 +20,9 @@
 }
 
 .joyce{
-    color: aquamarine;
+    color: green;
 }
 
 .sergeant{
-    color: blueviolet
+    color: purple
 }
